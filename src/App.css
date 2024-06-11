@@ -1,0 +1,9 @@
+body {
+  background-color: #2b2d42;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+.completed {
+  text-decoration: line-through;
+}
